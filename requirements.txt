@@ -1,0 +1,7 @@
+setuptools>=65.0.0
+opencv-python>=4.8.0
+numpy>=1.21.0
+mediapipe>=0.10.0
+screen-brightness-control>=0.20.0
+pillow>=9.0.0
+pulsectl>=22.0.0
